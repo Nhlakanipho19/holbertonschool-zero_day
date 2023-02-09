@@ -1,1 +1,1 @@
-My firt Readme on Git directory is updaated
+My firt Readme on Git directory is updated
